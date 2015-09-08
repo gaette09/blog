@@ -1,14 +1,42 @@
-# Site settings
-title: Chung Ji Hwan
-email: gaette09@naver.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog/
-url: "http://gaette09.github.io" # the base hostname & protocol for your site
-twitter_username: gaette09
-github_username:  gaette09
+name: jihwan
+description: etc.
+meta_description: "Your New Jekyll Site, Blogging about stuffs"
 
-# Build settings
-markdown: kramdown
+aboutPage: true
+
+markdown: redcarpet
+highlighter: pygments
+
+paginate: 20
+baseurl: /blog/
+domain_name: 'http://gaette09.github.io'
+google_analytics: 'UA-XXXXXXXX-X'
+disqus: false
+disqus_shortname: 'your-disqus-shortname'
+
+# Details for the RSS feed generator
+url:            'http://gaette09.github.io/blog'
+author:         'jihwan'
+authorTwitter:  'gaette09'
+
+permalink:       /:year/:title/
+
+defaults:
+    -
+        scope:
+            path: "" # empty string for all files
+            type: pages
+        values:
+            layout: default
+    -
+        scope:
+            path: "" # empty string for all files
+            type: posts
+        values:
+            layout: post
+    -
+        scope:
+            path: ""
+            type: drafts
+        values:
+            layout: post

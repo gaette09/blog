@@ -4,6 +4,6 @@ permalink: about/
 profile: true
 ---
 
-This is a static page. It could be an 'about page' if you'd like.
+프론트앤드 개발자 입니다!
 
 {% include footer.html %}

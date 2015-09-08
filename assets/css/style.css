@@ -119,6 +119,7 @@ nav.main-nav {
 	text-align: right;
 	/*position: fixed;*/
 	z-index: 100;
+	border-bottom: #333333 solid 1px;
 }
 
 nav.main-nav a {

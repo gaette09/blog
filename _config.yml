@@ -7,7 +7,7 @@ aboutPage: true
 markdown: redcarpet
 highlighter: pygments
 
-paginate: 20
+paginate: 10
 baseurl: /blog/
 domain_name: 'http://gaette09.github.io'
 google_analytics: 'UA-XXXXXXXX-X'

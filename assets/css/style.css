@@ -665,7 +665,13 @@ h2.month {
 @media only screen and (max-width: 767px) and (min-width: 0px){
 	#wrapper { padding:5px 5px 5px 5px;}
 	/*#header { margin-bottom: 60px; border-bottom: 1px solid #eee; }*/
-	.post { margin: 40px 0; }
+	.post {
+		width: 90%;
+		margin: 0 auto;
+	}
+	.post header h1{
+		font-size: 28px;
+	}
 	#footer { margin-top: 60px; }
 
 	#post-list, #archive-list { margin-top: 0; }
@@ -677,9 +683,9 @@ h2.month {
 	#post-list-footer { margin-top: 20px; padding-top: 40px; }
 
 	h1 { font-size: 26px; }
-	.post h2.headline { font-size: 13px; }
-	.post h1 { font-size:24px; }
-	.post h2 { font-size:20px; }
+	.post h2.headline { font-size: 12px; }
+	.post h1 { font-size:18px; }
+	.post h2 { font-size:16px; }
 
 	#post-list h2  {
 		font-size: 14px;

@@ -224,7 +224,7 @@ em, i { font-style: italic; }
 
 .post header {
 	text-align:center;
-
+	margin-top: 10px;
 }
 
 .post h1 {
@@ -236,7 +236,7 @@ em, i { font-style: italic; }
 }
 
 .post h2 {
-	margin-bottom: 40px;
+	margin: 10px 0;
 	font-size: 24px;
 	font-weight: 300;
 	font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";

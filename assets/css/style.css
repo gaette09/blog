@@ -668,6 +668,7 @@ h2.month {
 	.post {
 		width: 90%;
 		margin: 0 auto;
+		font-size: 14px;
 	}
 	.post header h1{
 		font-size: 28px;

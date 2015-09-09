@@ -11,24 +11,24 @@ html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abb
 .hidden { display: none; }
 
 /* Icons */
-/*@font-face {*/
-	/*font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";*/
-	/*font-weight: normal;*/
-	/*font-style: normal;*/
-/*}*/
+@font-face {
+	font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";
+	font-weight: normal;
+	font-style: normal;
+}
 
-/*[class^="icon-"]:before, [class*=" icon-"]:before {*/
-	/*font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";*/
-	/*font-style: normal;*/
-	/*font-weight: normal;*/
-	/*speak: none;*/
-	/*display: inline-block;*/
-	/*text-decoration: inherit;*/
-	/*text-align: center;*/
-	/*font-variant: normal;*/
-	/*text-transform: none;*/
-	/*line-height: 1em;*/
-/*}*/
+[class^="icon-"]:before, [class*=" icon-"]:before {
+	font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";
+	font-style: normal;
+	font-weight: normal;
+	speak: none;
+	display: inline-block;
+	text-decoration: inherit;
+	text-align: center;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1em;
+}
 .icon-facebook:before { content: '\e802'; }
 .icon-facebook-squared:before { content: '\e800'; }
 .icon-twitter:before { content: '\e801'; }
@@ -682,7 +682,7 @@ h2.month {
 	}
 	#post-meta {
 		width: 90%;
-		margin: 0 auto;
+		margin: 60px auto;
 	}
 
 	#title { font-size: 17px; }

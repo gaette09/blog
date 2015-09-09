@@ -67,7 +67,7 @@ h2 {
 }
 
 .profile #wrapper {
-	padding: 100px 40px 0px;
+	padding: 60px 40px 0px;
 	max-width: 600px;
 	margin: 0 auto;
 }
@@ -400,7 +400,7 @@ Post List
 #post-list a {
 	color: #333;
 	display: block;
-	font-size: 22px;
+	font-size: 32px;
 	font-style: normal;
 	font-family: 'Merriweather', "Apple SD Gothic Neo", "NanumGothic", "NanumBarunGothic", "Georgia", "serif";
 }
@@ -663,7 +663,7 @@ h2.month {
 /* Media Queries */
 /*@media screen and (max-width: 540px) {*/
 @media only screen and (max-width: 767px) and (min-width: 0px){
-	#wrapper { padding:10px 10px 10px 10px;}
+	#wrapper { padding:5px 5px 5px 5px;}
 	/*#header { margin-bottom: 60px; border-bottom: 1px solid #eee; }*/
 	.post { margin: 40px 0; }
 	#footer { margin-top: 60px; }
@@ -684,5 +684,10 @@ h2.month {
 	#post-list h2  {
 		font-size: 14px;
 		line-height: 23px;
+	}
+
+	#post-list a  {
+		font-size: 22px;
+		line-height: 34px;
 	}
 }

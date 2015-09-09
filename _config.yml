@@ -16,7 +16,7 @@ disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
 url:            'http://gaette09.github.io/blog'
-author:         'jihwan'
+author:         'Chung Jihwan'
 authorTwitter:  'gaette09'
 
 permalink:       /:year/:title/

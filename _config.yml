@@ -5,7 +5,7 @@ meta_description: "Front-end Developer - javascript, css, html"
 aboutPage: true
 
 markdown: redcarpet
-    autolink: true
+#    autolink: true
 
 highlighter: pygments
 

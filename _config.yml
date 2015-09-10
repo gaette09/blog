@@ -46,6 +46,7 @@ defaults:
 
 gems:
  - jekyll-mentions
+ - redcarpet
 
 jekyll-mentions:
     base_url: https://twitter.com

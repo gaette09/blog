@@ -4,8 +4,9 @@ meta_description: "Front-end Developer - javascript, css, html"
 
 aboutPage: true
 
-markdown: redcarpet
-    autolink: true
+markdown: redcarpet2
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data"]
 
 highlighter: pygments
 

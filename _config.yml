@@ -4,8 +4,9 @@ meta_description: "Front-end Developer - javascript, css, html"
 
 aboutPage: true
 
-#markdown: redcarpet
-markdown: kramdown
+markdown: redcarpet
+    autolink: true
+
 highlighter: pygments
 
 paginate: 10

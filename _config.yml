@@ -40,3 +40,9 @@ defaults:
             type: drafts
         values:
             layout: post
+
+gems:
+ - jekyll-mentions
+
+jekyll-mentions:
+    base_url: https://twitter.com

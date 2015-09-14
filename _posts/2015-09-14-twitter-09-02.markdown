@@ -1,0 +1,58 @@
+---
+title:  "2015년 9월 - 2 주차 트위터 정리"
+date:   2015-09-14 09:45:00
+description: 트위터 개인 정리 파일 입니다 - IT 관련 , 개인 관심사... 
+---
+
+
+@iamprogrammerio : 스위프트를 위한 디자인 패턴 http://t.co/t7SzFQNTv6
+
+@devsfarm : "IPython Notebook 을 이용한 파이썬 문서화 : 코드레이스 문제 준비하기" https://t.co/s071q2wBn8
+
+@gaette09 : “Realm은 모바일 데이터베이스입니다: SQLite와 Core Data를 대체하여 사용할 수 있습니다” https://t.co/i1IGwlINvP
+
+@lingostar : [광고] 오토레이아웃 관심 있으신 분들 베타테스트 부탁드립니다. [베타테스트]오토 레이아웃 앱 북 http://t.co/GYyad38swq
+
+@devthewild : 터치 인터페이스에서 조이스틱처럼 구현한 라이브러리라는데 어째 이름이 좀 https://t.co/cDkC4qKVHw
+
+@taggon : HTML5+JS로 만든 스타크래프트 유닛 기능은 대충 구현된 듯 한데 건설 AI 등 세세한 부분은 아직 구현되지 않았습니다. https://t.co/7d7mpLhLbv
+
+@devthewild : ES6에 대한 튜토리얼 레퍼런스 등 정리 https://t.co/lK67a5M62C
+
+@Outsideris : 두둥! node.js 재단하에서 node와 io.js가 합쳐진 첫 안정버전 Node v4.0.0 릴리즈!! https://t.co/ZqKDhP4FcC 6개월마다 안정버전을 발표하고(4월10월) 10월 버전이 LTS 될 예정...
+
+@exponentjs : http://t.co/12lwccBzBL runs on Node 4.0 (and it's open source) #day1 🙋🏻
+
+@initialkommit : #django #djangogirlsseoul 장고걸스튜토리얼 한국어판 완료. 아직 베타지만... http://t.co/b6lTSvJgEC
+
+@hiconcep : 스마트폰으로 음식을 주문하고 나오는 것을 받아가는 무인 레스토랑 http://t.co/Ou9Kr38yDj 이 화제군요. 머지 않아 음식 조리도 로봇이 하게될 것이라고 - https://t.co/5fQB2KtBz4
+
+@tobyyun : 나는 포토샵을 쓰지 않는다.' http://t.co/Tr2ikSUYZm 해외 디자이너의 이야기인데 2012년 부터 Adobe 제품군을 전혀 사용하지 않는다는군요. 웹브라우저 엔진을 탑재한 툴을 실제로 사용했다는 점도 인상적입니다.
+
+@raccoonyy : Django Girls의 튜토리얼 한글 번역본 http://t.co/vIggaQTZXL 내용 좋다고 생각하고 있었는데 번역까지 되었으니 아낌 없이 추천!
+
+@WebStormIDE : Type /** and hit Enter to generate a JSDoc block for your function #WebStormTip http://t.co/cSq3PYpRSK
+
+@n0lb00 : 웹앱을 위한 REST API 서버 솔루션들 | 유스풀패러다임 http://t.co/LIr2co8H1V
+
+@learnreact : Building a Stopwatch in #reactjs (pt1-4): http://t.co/JFL4dy2pva http://t.co/h6JQB5lSy2 http://t.co/swMBo8rbXG http://t.co/rwhL9k3AIc
+
+@back2themac : [업데이트] 국내 웹 환경을 위한 보다 스마트한 웹브라우저용 스타일 시트(CSS) http://t.co/TS4BbvoKfu
+
+@JavaScriptDaily : Promises in JavaScript Unit Tests: A Definitive Guide - http://t.co/0s7sGWUHNO
+
+@seoulrain : [크롬확장] UpNext Music Player - 사운드클라우드 + 유튜브 음악 재생바 https://t.co/YUBz0Si15f 이거 짱 좋네요. 일단 사운드클라우드에서 가져오는 음질 + 유튜브 방대한 목록 #lk
+
+@devthewild : Javascript ES6 Cheatsheet https://t.co/Sn2ZgZZbkC es6 quick tutorial
+
+@n0lb00 : Bower를 사용합시다. http://t.co/VLEpFaBbQK
+
+@back2themac : [무료] 맥북이 특정 와이파이에 연결되면 스피커를 자동으로 음소거 시켜주는 유틸리티 'AutoMute' http://t.co/41T2WCuy1z
+
+@gaette09 : ReSRC • Responsive Image CDN with 75% smaller file sizes https://t.co/4UlXA2QRg8
+
+@seoulrain : 1PasswordAnywhere | 1Password 를 어디에서나 사용하기 http://t.co/P4nYOW7imA 드롭박스에 브라우저로 로그인해서 마치 pc에 전용프로그램이 설치된 것과 같이 사용 가능 #lk
+
+@_ericelliott : Use Babel to get consistent ES6 support in Node and Browsers. https://t.co/1qF3dfpTOS #es6 #JavaScript
+
+@n0lb00 : 프로그래밍 언어별 딥러닝 라이브러리 정리 http://t.co/Re9hGlAEi5
